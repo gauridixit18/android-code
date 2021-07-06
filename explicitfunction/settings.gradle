@@ -1,0 +1,2 @@
+rootProject.name = "explicit function"
+include ':app'
